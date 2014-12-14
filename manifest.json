@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Chrome Mouse Fixer",
+    "description": "Test",
+    "version": "1.0",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "permissions": [
+        "webNavigation"
+    ]
+}
