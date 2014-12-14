@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Hyperactive Mouse Wrangler",
-    "description": "Mitigates the mayhem that occurs when your mouse's middle button is faulty and a single click spawns 500 identical tabs. Now only one tab will open!",
+    "description": "Prevents your mouse's faulty middle click button from spawning 500 identical tabs.",
     "version": "1.0",
     "background": {
         "scripts": ["background.js"],
